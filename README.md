@@ -1,5 +1,5 @@
 # MCMC
-MCMC work done during research assistantship.
+MCMC work done during research assistantship under Prof. Bou Rabee.
 
 
 
