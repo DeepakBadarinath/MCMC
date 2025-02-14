@@ -1,5 +1,5 @@
 # MCMC
-MCMC work done during research assistantship where I had the privelege of working with Prof. Bou Rabee.
+MCMC work done during research assistantship where I had the privelege of working with Prof. Bou Rabee and Prof. Andreas Erbele.
 
 
 
