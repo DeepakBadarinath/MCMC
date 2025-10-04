@@ -1,5 +1,5 @@
 # MCMC
-MCMC work done during research assistantship
+MCMC work done during research assistantship under the assistance of Prof. Nawaf Bou Rabbee and Prof. Andreas Erbele
 
 
 
